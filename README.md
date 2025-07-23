@@ -38,7 +38,7 @@ employee-salary-prediction/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/employee-salary-prediction.git
+   git clone https://github.com/ajithh404/employee-salary-prediction.git
    cd employee-salary-prediction
    ```
 
