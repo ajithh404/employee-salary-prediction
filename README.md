@@ -24,7 +24,8 @@ employee-salary-prediction/
 ├── model/
 │   ├── best_salary_model.pkl   # Trained ML model
 │   ├── label_encoders.pkl      # Encoders for categorical features
-│   └── scaler.pkl              # Scaler for numerical features
+│   ├── scaler.pkl              # Scaler for numerical features
+|   └── model_performance_metrics.pkl #Performance metrics of the model
 ├── notebooks/
 │   └── employee-salary-prediction.ipynb  # Training and evaluation notebook
 ├── requirements.txt
