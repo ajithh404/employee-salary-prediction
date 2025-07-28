@@ -4,6 +4,7 @@ scikit-learn
 joblib
 matplotlib
 seaborn
+tabulate
 
 jupyter
 notebook
