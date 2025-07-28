@@ -19,15 +19,12 @@ A machine learning web app built with Streamlit that predicts employee salaries 
 ```
 employee-salary-prediction/
 ├── app.py                      # Streamlit web app
-├── data/
-│   └── salary_prediction_data.csv  # Dataset used for training
-├── model/
-│   ├── best_salary_model.pkl   # Trained ML model
-│   ├── label_encoders.pkl      # Encoders for categorical features
-│   ├── scaler.pkl              # Scaler for numerical features
-|   └── model_performance_metrics.pkl #Performance metrics of the model
-├── notebooks/
-│   └── employee-salary-prediction.ipynb  # Training and evaluation notebook
+├── salary_prediction_data.csv  # Dataset used for training
+├── best_salary_model.pkl   # Trained ML model
+├── label_encoders.pkl      # Encoders for categorical features
+├── scaler.pkl              # Scaler for numerical features
+├── model_performance_metrics.pkl #Performance metrics of the model
+├── employee-salary-prediction.ipynb  # Training and evaluation notebook
 ├── requirements.txt
 └── README.md
 ```
