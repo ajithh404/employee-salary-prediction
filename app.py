@@ -125,7 +125,7 @@ st.set_page_config(page_title="Employee Salary Prediction", page_icon="💰", la
 st.markdown("---")
 st.header("📈 Model Performance Overview")
 if model_performance_df is not None:
-    st.write("Here's a summary of how different models performed on the test data (higher R² is better, lower MAE/RMSE/MAPE are better):")
+    st.write("A summary comparing model performance on test data — higher R² indicates better fit, while lower MAE, RMSE, and MAPE reflect fewer prediction errors.")
     st.dataframe(model_performance_df.style.format({
         'Test R2': "{:.4f}",
         'Test MAE': "{:,.2f}",
