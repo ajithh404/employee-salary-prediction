@@ -59,7 +59,7 @@ employee-salary-prediction/
    streamlit run app.py
    ```
 
-## OR USE THE LIVE DEMO LINK: https://employee-salary-prediction-system-2025.streamlit.app/
+**OR USE THE LIVE DEMO LINK: https://employee-salary-prediction-system-2025.streamlit.app/**
 ---
 
 ## Data Format
